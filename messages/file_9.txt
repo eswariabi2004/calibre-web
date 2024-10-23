@@ -1,5 +1,5 @@
 msgid "Please wait one minute before next login"
-msgstr ""
+msgstr "அடுத்த உள்நுழைவுக்கு முன் ஒரு நிமிடம் காத்திருக்கவும்"
 
 msgid "you are now logged in as: '%(nickname)s'"
 msgstr ""
