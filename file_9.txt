@@ -1,7 +1,8 @@
 msgid "Please wait one minute before next login"
 msgstr "அடுத்த உள்நுழைவுக்கு முன் ஒரு நிமிடம் காத்திருக்கவும்"
 
-msgid "you are now logged in as: '%(nickname)s'"msgstr "நீங்கள் இப்போது இவ்வாறு உள்நுழைந்துள்ளீர்கள்: '%(புனைப்பெயர்)s"
+msgid "you are now logged in as: '%(nickname)s'
+"msgstr "நீங்கள் இப்போது இவ்வாறு உள்நுழைந்துள்ளீர்கள்: '%(புனைப்பெயர்)s"
 
 msgid ""
 msgstr ""
@@ -71,28 +72,28 @@ msgid "Generated %(count)s cover thumbnails"
 msgstr ""
 
 msgid "Cover Thumbnails"
-msgstr ""
+msgstr "கவர் சிறுபடங்கள்"
 
 msgid "Generated {0} series thumbnails"
-msgstr ""
+msgstr "{0} தொடர் சிறுபடங்களை உருவாக்கியது"
 
 msgid "Clearing cover thumbnail cache"
-msgstr ""
+msgstr "அட்டை சிறுபட தேக்ககத்தை அழிக்கிறது"
 
-msgid "Upload"
+msgid ""
 msgstr ""
 
 msgid "Users"
-msgstr ""
+msgstr "பயனர்கள்"
 
 msgid "Username"
-msgstr ""
+msgstr"பயனர் பெயர்"
 
 msgid "Email"
-msgstr ""
+msgstr "மின்னஞ்சல்"
 
 msgid "Send to eReader Email"
-msgstr ""
+msgstr "eReader மின்னஞ்சலுக்கு அனுப்பவும்"
 
 msgid "Admin"
 msgstr ""
