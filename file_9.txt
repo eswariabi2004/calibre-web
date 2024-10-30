@@ -96,17 +96,14 @@ msgid "Send to eReader Email"
 msgstr "eReader மின்னஞ்சலுக்கு அனுப்பவும்"
 
 msgid "Admin"
-msgstr ""
+msgstr "நிர்வாகி"
 
 msgid "Password"
-msgstr ""
-
-msgid "Download"
-msgstr ""
+msgstr "கடவுச்சொல"
 
 msgid "View Books"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr திருத்தவும்"
 
